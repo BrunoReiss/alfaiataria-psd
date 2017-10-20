@@ -1,0 +1,46 @@
+.form {
+	background-color: #473301;
+	padding: 20px;
+	margin: auto
+}
+.form h1 {
+	color: beige;
+}
+
+
+
+#form {
+	background: #473301;
+	margin: auto 70px
+}
+#form button {
+	float: right;
+	color: beige;
+	background-color: #473301;
+	border: 2px solid beige;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 15px;
+	padding-left: 15px
+}
+
+.input {
+	background-color: #473301;
+	margin: 10px auto;
+	line-height: 35px;
+	border: 2px solid beige
+}
+
+.text {
+	background-color: #473301;
+	margin: 10px auto;
+	border: 2px solid beige
+}
+
+footer {
+	background-color: #281d01;
+	height: 100px
+}
+
+
+
